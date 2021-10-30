@@ -3,3 +3,7 @@ ______________________
 This is my second file
 
 ______________________
+
+New feature to test rebase in git
+
+<><><><><><><><><><><>
